@@ -1,0 +1,4 @@
+.env
+node_modules/
+dist/
+long_term_memory.json
